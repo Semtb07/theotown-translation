@@ -1839,7 +1839,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_roaddeco_barrier01_title">Afsluitingen</string>
     <string name="draft_roaddeco_barrier01_text">Kan worden gebruikt om de weg af te sluiten.</string>
     <string name="draft_roaddeco_construction01_title">Grindbergen</string>
-    <string name="draft_roaddeco_construction01_text">Deel van goede wegenwerken.</string>
+    <string name="draft_roaddeco_construction01_text">Deel van goede wegwerkzaamheden.</string>
 
 
     <string name="notification00_sandbox_title">NIEUWS: %1$s is een mooie stad!</string>
@@ -1854,7 +1854,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_roaddeco_trafficisland00_title">Verkeerseiland</string>
     <string name="draft_roaddeco_trafficisland00_text">Staat mensen toe om de straat over te steken.</string>
     <string name="draft_roaddeco_buildingsite00_title">Bouwwerf</string>
-    <string name="draft_roaddeco_buildingsite00_text">Opgelet wegenwerken!</string>
+    <string name="draft_roaddeco_buildingsite00_text">Opgelet wegwerkzaamheden!</string>
     <string name="draft_roaddeco_trafficlights00_title">Stoplicht</string>
     <string name="draft_roaddeco_trafficlights00_text">Veiliger dan een zebrapad en verkeerseiland.</string>
 
